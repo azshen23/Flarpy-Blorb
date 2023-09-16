@@ -12,10 +12,12 @@ Library: /Users/azshen/Documents/GitHub/Flarpy Blorb/Temp/BurstOutput/tempburstl
 --assembly-defines=Unity.2D.IK.Runtime;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.Collections;
+--assembly-defines=Unity.AdaptivePerformance.Google.Android;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.Profiling.Core;
+--assembly-defines=Unity.AdaptivePerformance.Samsung.Android;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.AdaptivePerformance;
 --assembly-defines=Unity.VisualScripting.Core;
@@ -24,7 +26,6 @@ Library: /Users/azshen/Documents/GitHub/Flarpy Blorb/Temp/BurstOutput/tempburstl
 --assembly-defines=Unity.InternalAPIEngineBridge.001;
 --assembly-defines=Unity.2D.Common.Runtime;
 --assembly-defines=Unity.Timeline;
---assembly-defines=Unity.Subsystem.Registration;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Unity.Notifications.Android;
